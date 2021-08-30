@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dracula-color-palette/static/css/main.b7bda050.chunk.css",
+    "main.js": "/dracula-color-palette/static/js/main.da9499c8.chunk.js",
+    "main.js.map": "/dracula-color-palette/static/js/main.da9499c8.chunk.js.map",
+    "runtime-main.js": "/dracula-color-palette/static/js/runtime-main.2a884741.js",
+    "runtime-main.js.map": "/dracula-color-palette/static/js/runtime-main.2a884741.js.map",
+    "static/js/2.0e833245.chunk.js": "/dracula-color-palette/static/js/2.0e833245.chunk.js",
+    "static/js/2.0e833245.chunk.js.map": "/dracula-color-palette/static/js/2.0e833245.chunk.js.map",
+    "static/js/3.4f968ca1.chunk.js": "/dracula-color-palette/static/js/3.4f968ca1.chunk.js",
+    "static/js/3.4f968ca1.chunk.js.map": "/dracula-color-palette/static/js/3.4f968ca1.chunk.js.map",
+    "index.html": "/dracula-color-palette/index.html",
+    "static/css/main.b7bda050.chunk.css.map": "/dracula-color-palette/static/css/main.b7bda050.chunk.css.map",
+    "static/js/2.0e833245.chunk.js.LICENSE.txt": "/dracula-color-palette/static/js/2.0e833245.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a884741.js",
+    "static/js/2.0e833245.chunk.js",
+    "static/css/main.b7bda050.chunk.css",
+    "static/js/main.da9499c8.chunk.js"
+  ]
+}
