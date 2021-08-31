@@ -2,6 +2,8 @@
 ![screenshot](./public/screenshot.png) 
 ## Info
 Got tired of having to open up the dracula theme repo to grab the hex colors, so I made a app using react and react-copy-to-clipboard to display the dracula theme colors and add them to the clipboard when the color is clicked.
+
+[Live Demo](https://borkstick.github.io/dracula-color-palette/)
 ## Available Scripts
 
 In the project directory, you can run:
